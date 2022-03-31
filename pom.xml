@@ -13,7 +13,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>5.0.4.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
         <logback.version>1.2.3</logback.version>
         <jcl.slf4j.version>1.7.12</jcl.slf4j.version>
